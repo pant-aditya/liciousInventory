@@ -1,0 +1,2 @@
+# liciousInventory
+inventory management licious
